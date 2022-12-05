@@ -1,6 +1,6 @@
 # MaD
 ## Description 
-This is the source code for ''Improving RGB-D Salient Object Detection via Modality-aware Decoder''[link](http://eeexplore.ieee.org/document/9894275 "data link")
+This is the source code for ''[Improving RGB-D Salient Object Detection via Modality-aware Decoder](http://eeexplore.ieee.org/document/9894275)''
 
 ## Getting Started
 ### Requirements
@@ -33,4 +33,4 @@ Please cite the following article when referring to this method.
 ```
 
 ## Acknowledgement 
-Thanks to [BBSNet](https://github.com/zyjwuyan/BBS-Net), [GloRe](https://github.com/atsiami/STAViS) and [AViNet](https://github.com/samyak0210/ViNet).
+Thanks to [BBSNet](https://github.com/zyjwuyan/BBS-Net) and [GloRe](https://github.com/facebookresearch/GloRe).
