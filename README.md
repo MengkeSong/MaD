@@ -15,6 +15,9 @@ Download the training (NJUD and NLPR) and testing datasets.
 ### Train 
 ```python3 train.py```
 
+### Test 
+```python3 test.py```
+
 ## Citation
 Please cite the following article when referring to this method.
 ```
