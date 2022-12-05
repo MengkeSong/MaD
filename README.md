@@ -9,22 +9,26 @@ This is the source code for ''Improving RGB-D Salient Object Detection via Modal
 * CUDA v10.1, cudnn v.7.5.0
 * torchvision
 
-### Usage
-1.Clone
-git clone https://github.com/MengkeSong/MaD.git
-cd MaD/
+### Data Preprocessing
+Download the training and testing datasets.
 
-2.Download the training and testing datasets.
+###Train 
+python3 train.py
 
-3. train.py
-
+### Results
+be downloaded at this Baidu Netdisk
+ [link](https://pan.baidu.com/s/1eqesDvK-7KUKL2VBshct6A "data link") (r5ca)
 
 ## Citation
 Please cite the following article when referring to this method.
 ```
-@ARTICLE{Chen2022SCDL,
-      title={A Comprehensive Survey on Video Saliency Detection with Auditory Information: the Audio-visual Consistency Perceptual is the Key!}, 
-      author={Chenglizhao Chen and Mengke Song and Wenfeng Song and Li Guo and Muwei Jian},
-      year={2022},
-}
+@ARTICLE{9894275,
+  author={Song, Mengke and Song, Wenfeng and Yang, Guowei and Chen, Chenglizhao},
+  journal={IEEE Transactions on Image Processing}, 
+  title={Improving RGB-D Salient Object Detection via Modality-Aware Decoder}, 
+  year={2022},
+  volume={31},
+  number={},
+  pages={6124-6138},
+  doi={10.1109/TIP.2022.3205747}}
 ```
