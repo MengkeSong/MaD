@@ -33,4 +33,4 @@ Please cite the following article when referring to this method.
 ```
 
 ## Acknowledgement 
-Thanks to [BBSNet](https://github.com/guotaowang/STANet), [GloRe](https://github.com/atsiami/STAViS) and [AViNet](https://github.com/samyak0210/ViNet).
+Thanks to [BBSNet](https://github.com/zyjwuyan/BBS-Net), [GloRe](https://github.com/atsiami/STAViS) and [AViNet](https://github.com/samyak0210/ViNet).
