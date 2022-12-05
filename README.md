@@ -10,14 +10,13 @@ This is the source code for ''Improving RGB-D Salient Object Detection via Modal
 * torchvision
 
 ### Data Preprocessing
-Download the training and testing datasets.
+Download the training (NJUD and NLPR) and testing datasets.
 
-###Train 
+### Train 
 python3 train.py
 
 ### Results
-be downloaded at this Baidu Netdisk
- [link](https://pan.baidu.com/s/1eqesDvK-7KUKL2VBshct6A "data link") (r5ca)
+The saliency maps can be downloaded at this Baidu Netdisk [link](https://pan.baidu.com/s/1eqesDvK-7KUKL2VBshct6A "data link") (r5ca)
 
 ## Citation
 Please cite the following article when referring to this method.
