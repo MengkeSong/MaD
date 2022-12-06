@@ -12,9 +12,6 @@ This is the source code for ''[Improving RGB-D Salient Object Detection via Moda
 ### Data Preprocessing
 Download the training (NJUD and NLPR) and testing datasets.
 
-### Train 
-```python3 train.py```
-
 ### Test 
 ```python3 test.py```
 
