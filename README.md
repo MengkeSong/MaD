@@ -2,6 +2,8 @@
 ## Description 
 This is the source code for ''[Improving RGB-D Salient Object Detection via Modality-aware Decoder](http://eeexplore.ieee.org/document/9894275)''(IEEE TIP 2022).
 
+If you have any question, please contact at songsook@163.com.
+
 ## Getting Started
 ### Requirements
 * Python 3.7+
